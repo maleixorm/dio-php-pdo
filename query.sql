@@ -7,4 +7,4 @@ create table produtos(
 );
 describe produtos;
 select * from produtos;
-alter table produtos auto_increment = 2;
+alter table produtos auto_increment = 3;
